@@ -1,0 +1,5 @@
+ollama
+BeautifulSoup4
+requests
+Markdown
+streamlit
